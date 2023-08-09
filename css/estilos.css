@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+#navar { 
+  background-color: #113C51 ;
+}
+
+#name{
+  color: #113C51;
+}
+#metas{
+  background: #113C51;
+}
+#foot{
+  background: #113C51;
+}
+audio{
+  opacity: 50%;
+}
+
+
+.btn {
+  background-color: white;
+  border-color: #113C51;
+  border-radius: 3px;
+  color: #113C51;
+  }
+
+.btn:hover,
+.btn:focus {
+  background-color: #113C51;
+  color: white; }
+
+
+
+html {
+  font-size: 13px; }
+
+body {
+  color: #44484a;
+  font-family: 'Open Sans', sans-serif; }
+
+.card:hover {
+  -webkit-box-shadow: 0 0 10px #0c0c0c3b;
+          box-shadow: 0 0 10px #0c0c0c3b; }
+
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px; } }
+
